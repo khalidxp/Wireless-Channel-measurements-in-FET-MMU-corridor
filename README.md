@@ -1,2 +1,2 @@
 # Channel-measurements-in-FET-MMU-corridor
-Dataset for channel measurements conducted at FET-MMU corridor will be added soon.
+Channel measurements conducted at FET-MMU corridor will be added soon.
