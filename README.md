@@ -6,3 +6,7 @@ Layout of FET-MMU corridor where the measurements are conducted.
 Received power plot:
 
 ![Fig10b](https://user-images.githubusercontent.com/26537727/179658011-c0905346-b6e5-4cb5-9df5-c66546949d64.jpg)
+
+
+Reference:
+K A. Alaghbari, H. S Lim, N.H A. Aziz, T. Bhuvaneswari and T. H. Oh, " "
