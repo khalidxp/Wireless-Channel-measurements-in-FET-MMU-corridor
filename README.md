@@ -10,4 +10,4 @@ Received power plot:
 
 Reference:
 
-K A. Alaghbari, H. S Lim, N.H A. Aziz, T. Bhuvaneswari and T. H. Oh, " "
+K. A. Alaghbari, H. -S. Lim, N. H. A. Aziz, T. Bhuvaneswari and T. H. Oh, "Design and Validation of the Physical Layer Functions of FBMC/OQAM Transceiver with Improved Residual Phase Error Correction," in IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3205405.
