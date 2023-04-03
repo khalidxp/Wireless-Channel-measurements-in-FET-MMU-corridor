@@ -13,5 +13,6 @@ Received power plot:
 
 Reference:
 
-K. A. Alaghbari, H. -S. Lim, N. H. A. Aziz, T. Bhuvaneswari and T. H. Oh, "Design and Validation of the Physical Layer Functions of FBMC/OQAM Transceiver with Improved Residual Phase Error Correction," in IEEE Access, 2022, doi: 10.1109/ACCESS.2022.3205405.
+K. A. Alaghbari, H. -S. Lim, N. H. A. Aziz, T. Bhuvaneswari and T. H. Oh, "Design and Validation of the Physical Layer Functions of FBMC/OQAM Transceiver With Improved Residual Phase Error Correction," in IEEE Access, vol. 10, pp. 97381-97393, 2022, doi: 10.1109/ACCESS.2022.3205405. https://ieeexplore.ieee.org/document/9882050
+
 For implementing basic FBMC/OQAM system on WARP kit, you can refer to: https://github.com/khalidxp/Implementing-FBMC-OQAM-on-SDR-WARP-kit
